@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/AleksandrHtml/Homeworks-sp2.git/static/css/main.8af22476.css",
-    "main.js": "/AleksandrHtml/Homeworks-sp2.git/static/js/main.4a235cd9.js",
+    "main.css": "/AleksandrHtml/Homeworks-sp2.git/static/css/main.79c0df16.css",
+    "main.js": "/AleksandrHtml/Homeworks-sp2.git/static/js/main.dafd46e0.js",
     "static/js/787.66cb4309.chunk.js": "/AleksandrHtml/Homeworks-sp2.git/static/js/787.66cb4309.chunk.js",
     "static/media/avatar.png": "/AleksandrHtml/Homeworks-sp2.git/static/media/avatar.d947cb9d0d13765666b6.png",
     "index.html": "/AleksandrHtml/Homeworks-sp2.git/index.html",
-    "main.8af22476.css.map": "/AleksandrHtml/Homeworks-sp2.git/static/css/main.8af22476.css.map",
-    "main.4a235cd9.js.map": "/AleksandrHtml/Homeworks-sp2.git/static/js/main.4a235cd9.js.map",
+    "main.79c0df16.css.map": "/AleksandrHtml/Homeworks-sp2.git/static/css/main.79c0df16.css.map",
+    "main.dafd46e0.js.map": "/AleksandrHtml/Homeworks-sp2.git/static/js/main.dafd46e0.js.map",
     "787.66cb4309.chunk.js.map": "/AleksandrHtml/Homeworks-sp2.git/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8af22476.css",
-    "static/js/main.4a235cd9.js"
+    "static/css/main.79c0df16.css",
+    "static/js/main.dafd46e0.js"
   ]
 }
